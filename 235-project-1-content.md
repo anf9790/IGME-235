@@ -7,7 +7,7 @@ It's an endless 2D runner with a twist: you can flip the camera behind you or ne
 - Platformer
 - 2.5D Endless Runner
 
-<b>Platorms:</b> <br>
+<b>Platforms:</b> <br>
 The game will be built for PC's, but is planned to be "mobile-friendly" so that it can be rereleased on mobile at a later point in time.
 
 <b>Story:</b> <br>
