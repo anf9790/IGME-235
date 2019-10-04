@@ -20,7 +20,7 @@ The sounds are simple and 8-bit. Things like menus and special instances (like w
 There will be a low background track that plays occasionally so as not to annoy players for long periods of time.
 
 <b>Gameplay:</b> <br>
-<em>Mechanics</em> 
+<em>Mechanics</em> <br>
 The main three mechanics are running, jumping, and flipping.
 The player has fairly standard movement options: they can move Vect left and right, and can make him jump.
 Other than that, the player only has the ability to "flip" between "dimensions" (or viewpoints), which can change the game from a side-scrolling runner to a front scrolling one (where the camera is behind the player) or vice-versa.
