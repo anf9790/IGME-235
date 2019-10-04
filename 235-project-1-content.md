@@ -31,7 +31,7 @@ The game is designed with a keyboard or a controller with a d-pad in mind, but c
 <em>Teaching</em> <br>
 Although most of the mechanics are standard and simple, there will still be a small scene at the start that serves mostly to teach players how to flip. <br>
 <em>Player Learning</em> <br>
-To "beat" this game, the player needs to have fairly fast reflexes, and a good understanding of how the flip mechanic works in regards to getting oast obstacles. Besides that though, the game doesn;t aske the player to learn too much. <br>
+To "beat" this game, the player needs to have fairly fast reflexes, and a good understanding of how the flip mechanic works in regards to getting oast obstacles. Besides that though, the game doesn't ask the player to learn too much. <br>
 
 <b>Other:</b> <br>
 The dimension flipping will be rationalized in game as being whose perspective you're looking through; Rastor the dog's (who is behind Vect chasing him), or Vect's Mom (who is driving alongside the pair making sure they don't get into too much trouble).
