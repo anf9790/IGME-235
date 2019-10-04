@@ -20,18 +20,18 @@ The sounds are simple and 8-bit. Things like menus and special instances (like w
 There will be a low background track that plays occasionally so as not to annoy players for long periods of time.
 
 <b>Gameplay:</b> <br>
-<em>Mechanics</em>
+<em>Mechanics</em> 
 The main three mechanics are running, jumping, and flipping.
 The player has fairly standard movement options: they can move Vect left and right, and can make him jump.
 Other than that, the player only has the ability to "flip" between "dimensions" (or viewpoints), which can change the game from a side-scrolling runner to a front scrolling one (where the camera is behind the player) or vice-versa.
 The player can flip with the press of a button, and they will need to do so in order to avoid obstacles that may only pose a threat in one of the viewpoints.
-The player will also need to watch out for instances where they are prevented from seeing the other view for a small amount of time; the game would not put obstacles that need flipping to avoid in these instances.
-<em>Control</em>
-The game is designed with a keyboard or a controller with a d-pad in mind, but could be played with touch (through the use of virtual buttons) and gyro controls on mobile, as there aren't too many inputs necessary to play the game.
-<em>Teaching</em>
-Although most of the mechanics are standard and simple, there will still be a small scene at the start that serves mostly to teach players how to flip.
-<em>Player Learning</em>
-To "beat" this game, the player needs to have fairly fast reflexes, and a good understanding of how the flip mechanic works in regards to getting oast obstacles. Besides that though, the game doesn;t aske the player to learn too much.
+The player will also need to watch out for instances where they are prevented from seeing the other view for a small amount of time; the game would not put obstacles that need flipping to avoid in these instances. <br>
+<em>Control</em> <br>
+The game is designed with a keyboard or a controller with a d-pad in mind, but could be played with touch (through the use of virtual buttons) and gyro controls on mobile, as there aren't too many inputs necessary to play the game. <br>
+<em>Teaching</em> <br>
+Although most of the mechanics are standard and simple, there will still be a small scene at the start that serves mostly to teach players how to flip. <br>
+<em>Player Learning</em> <br>
+To "beat" this game, the player needs to have fairly fast reflexes, and a good understanding of how the flip mechanic works in regards to getting oast obstacles. Besides that though, the game doesn;t aske the player to learn too much. <br>
 
 <b>Other:</b> <br>
 The dimension flipping will be rationalized in game as being whose perspective you're looking through; Rastor the dog's (who is behind Vect chasing him), or Vect's Mom (who is driving alongside the pair making sure they don't get into too much trouble).
