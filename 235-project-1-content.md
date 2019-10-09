@@ -40,3 +40,9 @@ Instances where the player can't see through one of the views would be rationali
 
 <b>About the Developer:</b> <br>
 Alessandro Fiorella is a second-year Game Design and Development major at RIT. He is skilled in a variety of coding languages (such as C#, Java, HTML, and CSS), and has experience using many different programs (like Unity, Unreal, Monogame, Adobe Illustrator, Photoshop, and Clip Studio Paint). Alessandro is interested in both programming and asset production in game making.
+
+
+<b>Documentation</b> <br>
+<em>Pre Production</em>
+When thinking of the concept for this game, I was heavily inspired by "Super Paper Mario" (which the flip mechanic is originally from, though it use used for puzzle solving and is implemented a bit differently). After thinking of a concept, I set to work writing up a game design document for the project. Next, I put all of the content I had written into different HTML pages to make the webbsite. 
+Then, I worked on the art assets for the website (all of which were drawn by myself using Clip Studio Paint). Finally, I got to work on the CSS and the design of the website, which was partly inspired by that of Hal Labs.
